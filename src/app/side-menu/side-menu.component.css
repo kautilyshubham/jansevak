@@ -1,0 +1,20 @@
+
+
+.logo{
+   height: 100px;
+   width: 100px;background: orangered;
+   color: #fff;
+   border-radius: 50%;
+   text-align: center;
+   margin: 10px auto;
+   padding: 23px 10px;
+}
+.side-nav>li{
+    margin: 15px 0px;
+    list-style-type: none;;
+}
+.side-nav>li>a{
+    text-decoration: none;
+    font-weight: 500;
+
+}
